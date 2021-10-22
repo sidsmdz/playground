@@ -6,6 +6,7 @@ public class Hello {
 
 		System.out.println("Hello branch1");
 		System.out.println("Hello One from branch2 just now");
+		System.out.println("Hello One from branch2 just now");
 	}
 
 }
